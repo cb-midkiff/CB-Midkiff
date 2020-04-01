@@ -132,7 +132,7 @@ footer ul li a {
   border-radius: 3px;
   text-transform: uppercase;
 }
-
+/* TODO work on footer for media calls */
 /* Reconfigures layout for phone sized screens */
 @media (max-width: 952px) {
   label.logo {
