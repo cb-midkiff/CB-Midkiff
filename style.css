@@ -68,7 +68,7 @@ ul {
 
 /* Section Top */
 .section-top {
-  min-height: 500px;
+  min-height: 100vh;
   background: url("./img/sunsetSail.jpg") no-repeat center center/cover;
 }
 
